@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Bower",
+		"BracketHighlighter",
+		"CSScomb",
+		"DevDocs",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Gist",
+		"JsMinifier",
+		"LiveReload",
+		"LiveStyle",
+		"Package Control",
+		"Placeholders",
+		"SideBarEnhancements",
+		"Theme - Nexus",
+		"TrailingSpaces"
+	]
+}

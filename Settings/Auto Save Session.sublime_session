@@ -1,0 +1,1307 @@
+{
+	"folder_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/projetos/instagram",
+		"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo",
+		"/Applications/XAMPP/xamppfiles/htdocs/projetos/book-jc",
+		"/Applications/XAMPP/xamppfiles/htdocs/projetos/vlm",
+		"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps"
+	],
+	"last_window_id": 30,
+	"settings":
+	{
+		"new_window_height": 669.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ma",
+						"mapa.js"
+					],
+					[
+						"galera",
+						"galeria-2011.png	w:460 h:460"
+					],
+					[
+						"prev",
+						"preventDefault"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"logo",
+						"logo-principal.png	w:105 h:114"
+					],
+					[
+						"rg",
+						"rgba	rgba()"
+					],
+					[
+						"to",
+						"toggleClass"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"bak",
+						"background-color"
+					],
+					[
+						"text",
+						"text-transform"
+					],
+					[
+						"in",
+						"interna.php"
+					],
+					[
+						"selo",
+						"selo-video.png	w:236 h:306"
+					],
+					[
+						"c",
+						"capa-principal-01.png	w:1920 h:720"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"r",
+						"rgba	rgba()"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"bacl",
+						"background-color"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 225.0,
+				"selected_items":
+				[
+					[
+						"open ",
+						"Gist: Open Gist"
+					],
+					[
+						"open gi",
+						"Gist: Open Gist in Browser"
+					],
+					[
+						"crete ",
+						"Gist: Create Private Gist"
+					],
+					[
+						"ident",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"create gis",
+						"Gist: Create Public Gist"
+					],
+					[
+						"syntax js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"plc",
+						"Snippet: Image - Placeholder"
+					],
+					[
+						"plceholde",
+						"Snippet: dl - Placeholder"
+					],
+					[
+						"placeholde",
+						"Snippet: Image - Placeholder"
+					],
+					[
+						"iden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"open gis",
+						"Gist: Open Gist in Browser"
+					],
+					[
+						"iednt",
+						"Emmet: Previous Edit Point"
+					],
+					[
+						"instal pa",
+						"Package Control: Install Package"
+					],
+					[
+						"instal pak",
+						"Package Control: Install Package"
+					],
+					[
+						"instal pack",
+						"Package Control: Install Package"
+					],
+					[
+						"instal p",
+						"Package Control: Install Package"
+					],
+					[
+						"instla ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 507.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/book-jc/.gitignore",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/vlm/.gitignore",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/css/main.css",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/index.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/js/main.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/faltas.md",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/humans.txt",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/.gitignore",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/.htaccess",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/inc/footer.inc.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/inc/menu.inc.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/fotos2011.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/fotos2012.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/fotos2013.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/js/vendor/galleria.classic.min.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/css/plugins/galleria.classic.min.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/galleria.classic.min.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/index.html",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/js/vendor/jquery.maskedinput/jquery.maskedinput.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/inc/head.inc.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/scripts.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/scripts2.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/script.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/envio_contato.php",
+				"/Users/boldcomunicacao/Desktop/papel-designer",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/vlm/envio_contato.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/vlm/contato.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/vlm/.htaccess",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/css/plugins/colorbox.min.css",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/vlm/css/main.css",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/video.html",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/inc/submenu.inc.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/js/mapa.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/js/mapa.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/js/mapa-2.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/README.md",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/js/mapa-3.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/mapa-window.html",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/mapa.html",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/passos.md",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/galeria.php",
+				"/Users/boldcomunicacao/Desktop/index.html",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/interna.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/inc/box-main.inc.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/js/pontos.json",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/bower.json",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/pontos.json",
+				"/Users/boldcomunicacao/Desktop/mapa.html",
+				"/Users/boldcomunicacao/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+				"/Users/boldcomunicacao/Desktop/.htaccess",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/js/vendor/jquery.lazyload/enabled_timeout.html",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/js/vendor/jquery.maskedinput/jquery.maskedinput.min.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/css/menu.css",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/css/plugins/colorbox.css",
+				"/Users/boldcomunicacao/Desktop/post.html",
+				"/Users/boldcomunicacao/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/inc/scripts.inc.php",
+				"/Users/boldcomunicacao/Library/Application Support/Sublime Text 2/Packages/Gist/Gist.sublime-settings",
+				"/Users/boldcomunicacao/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings",
+				"/Users/boldcomunicacao/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"160",
+					"canvas",
+					"atracao-secundaria",
+					"720",
+					"alt=\"\"",
+					"galleria",
+					"Galleria",
+					"images",
+					"link-galeria",
+					"thulio@boldcomunicacao.com.br",
+					"Downtown",
+					"thulio@boldcomunicacao.com.br",
+					"footer",
+					"contato-rodape",
+					"menu-ativo",
+					"link-menu",
+					"#next-galeria",
+					"include",
+					"inc",
+					".mascara-galeria",
+					"black",
+					"carrossel-galeria",
+					"999999999",
+					"999",
+					"apoio",
+					"id",
+					"marker",
+					"Marker",
+					"marker",
+					"InfoWindow",
+					"image",
+					"marcadorPersonalizado",
+					"infowindow.open(map",
+					"marker",
+					"image",
+					"beachMarker",
+					"var mapOptions ",
+					"footer",
+					"content-box-contato",
+					"atracao-secundaria",
+					"lista-estrutura",
+					"jpg",
+					"slide-galeria",
+					"<img src=\"\" alt=\"\">",
+					"purple",
+					"255",
+					"#slide-galeria",
+					"src",
+					"img",
+					"galeria",
+					"parallax",
+					"img-capa-home",
+					"content-box-reali",
+					"content-box-realizacao",
+					"content-box",
+					"content-box-home",
+					"%\n",
+					"footer",
+					"Atrações",
+					"Como Chegar",
+					"interna",
+					".submenu",
+					"realizacao",
+					"Realização",
+					"realizacao",
+					"linear",
+					".descricao-destaque",
+					"-->\n",
+					"mapa-localizacao",
+					".content-box-main-interno",
+					".content-box-main-interno{width: 100%;}",
+					".content-box-main-interno",
+					"box-realizacao",
+					".content-box-main-interno",
+					".bg-content-menu",
+					".entrega-kit",
+					"#box-atracoes",
+					"titulo-alternativo",
+					"h2",
+					"kit",
+					"last-child",
+					"toggleClass",
+					"descricao",
+					"img",
+					"class",
+					"p class",
+					"class",
+					"img-kit-",
+					"content-box-main-interno",
+					"subtitulo",
+					"atracao-secundaria",
+					"atracao-principal ",
+					".atracao-principal .nome-atracao{margin-top: 210px;opacity: 1;z-index: 1;}\n.atracao-principal",
+					".atracao-principal .nome-atracao",
+					".nome-atracao",
+					"img-atracao",
+					"nome-atracao",
+					"img-atracao",
+					"figcaption",
+					".nome-atracao",
+					"figcaption",
+					"figure",
+					"450",
+					"atracao-principal",
+					"item-estrutura",
+					"lista-estrutura",
+					".content-box-main-interno",
+					"box-servicos",
+					"href",
+					"{}",
+					"<li>",
+					"li",
+					"linear",
+					".content-box-main-interno",
+					".selo-open-bar",
+					"<img src=\"\" alt=\"\"></figure>",
+					"content-box-main",
+					"box-main",
+					"box-realizacao",
+					"Estrutura",
+					"../",
+					"selo-video",
+					"read_more",
+					"stop",
+					"rodar 0.4s linear infinite alternate",
+					"1s",
+					"infinite",
+					".content-box-contato"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"faltas",
+						"faltas.md"
+					],
+					[
+						"main.css",
+						"css/main.css"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"menu",
+						"inc/menu.inc.php"
+					],
+					[
+						"mainks",
+						"js/vendor/jquery.maskedinput/jquery.maskedinput.js"
+					],
+					[
+						"head",
+						"inc/head.inc.php"
+					],
+					[
+						"footer",
+						"inc/footer.inc.php"
+					],
+					[
+						"main.js",
+						"js/main.js"
+					],
+					[
+						"index.",
+						"index.php"
+					],
+					[
+						"contato",
+						"galo/envio_contato.php"
+					],
+					[
+						"colorbox",
+						"galo/css/plugins/colorbox.css"
+					],
+					[
+						"video",
+						"galo/video.html"
+					],
+					[
+						"fas",
+						"galo/faltas.md"
+					],
+					[
+						"index.php",
+						"galo/index.php"
+					],
+					[
+						"submenu",
+						"galo/inc/submenu.inc.php"
+					],
+					[
+						"falta",
+						"galo/faltas.md"
+					],
+					[
+						"mapa.js",
+						"galo/js/mapa.js"
+					],
+					[
+						"mapa3",
+						"maps/js/mapa-3.js"
+					],
+					[
+						"js/mapa",
+						"maps/js/mapa.js"
+					],
+					[
+						"faltasmd",
+						"faltas.md"
+					],
+					[
+						"galeria",
+						"galeria.php"
+					],
+					[
+						"sub",
+						"inc/submenu.inc.php"
+					],
+					[
+						"head.inc",
+						"inc/head.inc.php"
+					],
+					[
+						"video.html",
+						"video.html"
+					],
+					[
+						"humans",
+						"humans.txt"
+					],
+					[
+						"inc/h",
+						"inc/head.inc.php"
+					],
+					[
+						"faltas.md",
+						"faltas.md"
+					],
+					[
+						"maps",
+						"maps/js/pontos.json"
+					],
+					[
+						"json",
+						"galo/bower.json"
+					],
+					[
+						"enu",
+						"js/vendor/jquery.lazyload/enabled_timeout.html"
+					],
+					[
+						"subme",
+						"inc/submenu.inc.php"
+					],
+					[
+						"sube",
+						"inc/submenu.inc.php"
+					],
+					[
+						"maiun.js",
+						"js/vendor/jquery.maskedinput/jquery.maskedinput.min.js"
+					],
+					[
+						"subm",
+						"inc/submenu.inc.php"
+					],
+					[
+						"box-main",
+						"inc/box-main.inc.php"
+					],
+					[
+						"plugins",
+						"css/plugins/colorbox.css"
+					],
+					[
+						"inc.h",
+						"inc/head.inc.php"
+					],
+					[
+						"inc.php",
+						"inc/head.inc.php"
+					],
+					[
+						"incd.",
+						"inc/head.inc.php"
+					],
+					[
+						"inche",
+						"inc/head.inc.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 232.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1365.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"js",
+						"instagram-fotos-hashtag.js"
+					],
+					[
+						"ma",
+						"mapa.js"
+					],
+					[
+						"galera",
+						"galeria-2011.png	w:460 h:460"
+					],
+					[
+						"prev",
+						"preventDefault"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"logo",
+						"logo-principal.png	w:105 h:114"
+					],
+					[
+						"rg",
+						"rgba	rgba()"
+					],
+					[
+						"to",
+						"toggleClass"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"bak",
+						"background-color"
+					],
+					[
+						"text",
+						"text-transform"
+					],
+					[
+						"in",
+						"interna.php"
+					],
+					[
+						"selo",
+						"selo-video.png	w:236 h:306"
+					],
+					[
+						"c",
+						"capa-principal-01.png	w:1920 h:720"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"r",
+						"rgba	rgba()"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"bacl",
+						"background-color"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 81.0,
+				"selected_items":
+				[
+					[
+						"open gi",
+						"Gist: Open Gist in Browser"
+					],
+					[
+						"crete priv",
+						"Gist: Create Private Gist"
+					],
+					[
+						"md",
+						"Set Syntax: Markdown"
+					],
+					[
+						"ident",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"syntax css",
+						"Set Syntax: CSS"
+					],
+					[
+						"open ",
+						"Gist: Open Gist"
+					],
+					[
+						"crete ",
+						"Gist: Create Private Gist"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"create gis",
+						"Gist: Create Public Gist"
+					],
+					[
+						"syntax js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"plc",
+						"Snippet: Image - Placeholder"
+					],
+					[
+						"plceholde",
+						"Snippet: dl - Placeholder"
+					],
+					[
+						"placeholde",
+						"Snippet: Image - Placeholder"
+					],
+					[
+						"iden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"open gis",
+						"Gist: Open Gist in Browser"
+					],
+					[
+						"iednt",
+						"Emmet: Previous Edit Point"
+					],
+					[
+						"instal pa",
+						"Package Control: Install Package"
+					],
+					[
+						"instal pak",
+						"Package Control: Install Package"
+					],
+					[
+						"instal pack",
+						"Package Control: Install Package"
+					],
+					[
+						"instal p",
+						"Package Control: Install Package"
+					],
+					[
+						"instla ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 561.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/instagram/js/instagram.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/instagram/index.html",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/instagram/css/main.css",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/instagram/js/instagram-determinando-usuario.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/instagram/js/instagram-fotos-hashtag.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/instagram/instagram-fotos-hashtag.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/instagram/js/instagram-fotos-populares.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/instagram/main.css",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/faltas.md",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/js/main.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/.gitignore",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/envio_contato.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/inc/footer.inc.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/css/main.css",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/inc/menu.inc.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/index.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/book-jc/.gitignore",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/vlm/.gitignore",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/humans.txt",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/.htaccess",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/fotos2011.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/fotos2012.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/fotos2013.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/js/vendor/galleria.classic.min.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/css/plugins/galleria.classic.min.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/galleria.classic.min.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/index.html",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/js/vendor/jquery.maskedinput/jquery.maskedinput.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/inc/head.inc.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/scripts.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/scripts2.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/script.js",
+				"/Users/boldcomunicacao/Desktop/papel-designer",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/vlm/envio_contato.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/vlm/contato.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/vlm/.htaccess",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/css/plugins/colorbox.min.css",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/vlm/css/main.css",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/video.html",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/inc/submenu.inc.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/js/mapa.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/js/mapa.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/js/mapa-2.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/README.md",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/js/mapa-3.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/mapa-window.html",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/mapa.html",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/passos.md",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/galeria.php",
+				"/Users/boldcomunicacao/Desktop/index.html",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/interna.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/inc/box-main.inc.php",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/js/pontos.json",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/bower.json",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/maps/pontos.json",
+				"/Users/boldcomunicacao/Desktop/mapa.html",
+				"/Users/boldcomunicacao/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+				"/Users/boldcomunicacao/Desktop/.htaccess",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/js/vendor/jquery.lazyload/enabled_timeout.html",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/js/vendor/jquery.maskedinput/jquery.maskedinput.min.js",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/css/menu.css",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/css/plugins/colorbox.css",
+				"/Users/boldcomunicacao/Desktop/post.html",
+				"/Users/boldcomunicacao/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Applications/XAMPP/xamppfiles/htdocs/projetos/galo/inc/scripts.inc.php",
+				"/Users/boldcomunicacao/Library/Application Support/Sublime Text 2/Packages/Gist/Gist.sublime-settings",
+				"/Users/boldcomunicacao/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings",
+				"/Users/boldcomunicacao/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ul",
+					"div",
+					"menu-pontos-venda",
+					"scroll",
+					"90",
+					"8890",
+					"<?",
+					"al2falcao@gmail.com",
+					"!important",
+					"menu-ativo",
+					".thulio",
+					".submenu",
+					"thulio",
+					"menu-informacoes",
+					".link-voltar-topo",
+					"!important",
+					"thulio",
+					"addClass",
+					"160",
+					"canvas",
+					"atracao-secundaria",
+					"720",
+					"alt=\"\"",
+					"galleria",
+					"Galleria",
+					"images",
+					"link-galeria",
+					"thulio@boldcomunicacao.com.br",
+					"Downtown",
+					"thulio@boldcomunicacao.com.br",
+					"footer",
+					"contato-rodape",
+					"menu-ativo",
+					"link-menu",
+					"#next-galeria",
+					"include",
+					"inc",
+					".mascara-galeria",
+					"black",
+					"carrossel-galeria",
+					"999999999",
+					"999",
+					"apoio",
+					"id",
+					"marker",
+					"Marker",
+					"marker",
+					"InfoWindow",
+					"image",
+					"marcadorPersonalizado",
+					"infowindow.open(map",
+					"marker",
+					"image",
+					"beachMarker",
+					"var mapOptions ",
+					"footer",
+					"content-box-contato",
+					"atracao-secundaria",
+					"lista-estrutura",
+					"jpg",
+					"slide-galeria",
+					"<img src=\"\" alt=\"\">",
+					"purple",
+					"255",
+					"#slide-galeria",
+					"src",
+					"img",
+					"galeria",
+					"parallax",
+					"img-capa-home",
+					"content-box-reali",
+					"content-box-realizacao",
+					"content-box",
+					"content-box-home",
+					"%\n",
+					"footer",
+					"Atrações",
+					"Como Chegar",
+					"interna",
+					".submenu",
+					"realizacao",
+					"Realização",
+					"realizacao",
+					"linear",
+					".descricao-destaque",
+					"-->\n",
+					"mapa-localizacao",
+					".content-box-main-interno",
+					".content-box-main-interno{width: 100%;}",
+					".content-box-main-interno",
+					"box-realizacao",
+					".content-box-main-interno",
+					".bg-content-menu",
+					".entrega-kit",
+					"#box-atracoes",
+					"titulo-alternativo",
+					"h2",
+					"kit",
+					"last-child",
+					"toggleClass",
+					"descricao",
+					"img",
+					"class",
+					"p class",
+					"class",
+					"img-kit-",
+					"content-box-main-interno",
+					"subtitulo",
+					"atracao-secundaria",
+					"atracao-principal ",
+					".atracao-principal .nome-atracao{margin-top: 210px;opacity: 1;z-index: 1;}\n.atracao-principal",
+					".atracao-principal .nome-atracao",
+					".nome-atracao",
+					"img-atracao",
+					"nome-atracao",
+					"img-atracao",
+					"figcaption",
+					".nome-atracao",
+					"figcaption",
+					"figure",
+					"450",
+					"atracao-principal",
+					"item-estrutura",
+					"lista-estrutura",
+					".content-box-main-interno",
+					"box-servicos",
+					"href",
+					"{}"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Applications/XAMPP/xamppfiles/htdocs/projetos/galo"
+				},
+				{
+					"path": "/Applications/XAMPP/xamppfiles/htdocs/projetos/instagram"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0 55 1365 691 0 0 1366 746 ",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"index.php",
+						"index.php"
+					],
+					[
+						"main.css",
+						"css/main.css"
+					],
+					[
+						"menu",
+						"inc/menu.inc.php"
+					],
+					[
+						"faltas",
+						"faltas.md"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"mainks",
+						"js/vendor/jquery.maskedinput/jquery.maskedinput.js"
+					],
+					[
+						"head",
+						"inc/head.inc.php"
+					],
+					[
+						"footer",
+						"inc/footer.inc.php"
+					],
+					[
+						"main.js",
+						"js/main.js"
+					],
+					[
+						"index.",
+						"index.php"
+					],
+					[
+						"contato",
+						"galo/envio_contato.php"
+					],
+					[
+						"colorbox",
+						"galo/css/plugins/colorbox.css"
+					],
+					[
+						"video",
+						"galo/video.html"
+					],
+					[
+						"fas",
+						"galo/faltas.md"
+					],
+					[
+						"submenu",
+						"galo/inc/submenu.inc.php"
+					],
+					[
+						"falta",
+						"galo/faltas.md"
+					],
+					[
+						"mapa.js",
+						"galo/js/mapa.js"
+					],
+					[
+						"mapa3",
+						"maps/js/mapa-3.js"
+					],
+					[
+						"js/mapa",
+						"maps/js/mapa.js"
+					],
+					[
+						"faltasmd",
+						"faltas.md"
+					],
+					[
+						"galeria",
+						"galeria.php"
+					],
+					[
+						"sub",
+						"inc/submenu.inc.php"
+					],
+					[
+						"head.inc",
+						"inc/head.inc.php"
+					],
+					[
+						"video.html",
+						"video.html"
+					],
+					[
+						"humans",
+						"humans.txt"
+					],
+					[
+						"inc/h",
+						"inc/head.inc.php"
+					],
+					[
+						"faltas.md",
+						"faltas.md"
+					],
+					[
+						"maps",
+						"maps/js/pontos.json"
+					],
+					[
+						"json",
+						"galo/bower.json"
+					],
+					[
+						"enu",
+						"js/vendor/jquery.lazyload/enabled_timeout.html"
+					],
+					[
+						"subme",
+						"inc/submenu.inc.php"
+					],
+					[
+						"sube",
+						"inc/submenu.inc.php"
+					],
+					[
+						"maiun.js",
+						"js/vendor/jquery.maskedinput/jquery.maskedinput.min.js"
+					],
+					[
+						"subm",
+						"inc/submenu.inc.php"
+					],
+					[
+						"box-main",
+						"inc/box-main.inc.php"
+					],
+					[
+						"plugins",
+						"css/plugins/colorbox.css"
+					],
+					[
+						"inc.h",
+						"inc/head.inc.php"
+					],
+					[
+						"inc.php",
+						"inc/head.inc.php"
+					],
+					[
+						"incd.",
+						"inc/head.inc.php"
+					],
+					[
+						"inche",
+						"inc/head.inc.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 232.0,
+			"status_bar_visible": true,
+			"window_id": 30,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
